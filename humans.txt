@@ -1,6 +1,15 @@
 /* TEAM */
     Cocomore AG
-    Frontend Professional Developer: Isaac pavon
+    Frontend Teamlead: Enno Langelotz
+    Fullstack Senior: Rafael Chacón
+    Frontend Senior: Yuki Kishino
+    Frontend Senior: Pako García
+    Frontend Professional: Guillermo González
+    Frontend Professional: Boris Hermann
+    Frontend Professional: Bohdan Shcherbak
+    Frontend Junior: Sarah Wacker
+    Frontend Junior Developer: Juan de la Oliva
+    Frontend Junior Developer: Isaac pavon
     Website: https://www.cocomore.com/
     From: Seville, Andalusia, Spain and Frankfurt, Hesse, Germany
 
