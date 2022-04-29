@@ -123,12 +123,12 @@ const startTimers = function() {
       let thisTimer = timers[i];
       let thisTimerStatus = thisTimer.getAttribute('data-status');
       let thisTimerCounter = thisTimer.querySelector('.timer__time');
-      let thisTimerCounterValue = Number(thisTimerCounter.textContent);
+      let thisTimerCounterValue = Number(thisTimerCounter.getAttribute('data-value'));
 
       if (thisTimerStatus === "running") {
         setInterval(function() {
           thisTimerCounterValue = Number(thisTimerCounterValue + 1);
-          thisTimerCounter.textContent = thisTimerCounterValue;
+          thisTimerCounter.textContent = timeCalculator(thisTimerCounterValue);
           thisTimerCounter.setAttribute('data-value', thisTimerCounterValue);
           saveCounters();
         }, 1000);
