@@ -1,0 +1,12 @@
+/* TEAM */
+    Cocomore AG
+    Frontend Professional Developer: Isaac pavon
+    Website: https://www.cocomore.com/
+    From: Seville, Andalusia, Spain and Frankfurt, Hesse, Germany
+
+/* SITE */
+    Language: English
+    Doctype: HTML5
+    Standards: HTML5, CSS3
+    Components: JS, JQuery, Handlebars
+    IDE: Visual Studio Code, Php Storm
